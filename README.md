@@ -11,3 +11,5 @@
 📚 I'm learning to code, mainly to try and understand the founders I work with better. Building things I can use would be neat too.
 
 👀 This link is where you can see the things I'm working on and the stuff I like: https://n16o.github.io/n16o/
+
+↗️ I'm coding everything in there! Check out the repository to find all the code.
