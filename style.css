@@ -5,13 +5,13 @@
 
 body {
 	background-color: #545454;
-  background-image: linear-gradient(130deg, #2C3B3B, #476162, #3A6E70);
-  text-align: center;
+  	background-image: linear-gradient(130deg, #2C3B3B, #476162, #3A6E70);
+  	text-align: center;
 }
 
 header {
-	height: 200px;
-  padding: 20px;
+	height: 175px;
+  	padding: 20px;
 	overflow: scroll;
 }
 
@@ -21,33 +21,33 @@ header {
 
 .myheader_image, .myheader_text {
 	display: inline-block;
-  text-align: left;
-  color: #BADEDF;
-  margin: 20px;
+  	text-align: left;
+  	color: #BADEDF;
+  	margin: 20px;
 }
 
 .page_buttons button {
-  background-color: transparent;
-  background-image: linear-gradient(130deg, #2C3B3B, #476162, #519B9D);
-  border: 3px solid white;
-  color: white;
-  border-radius: 15px;
-  padding: 10px 10px 10px 10px;
-  width: 300px;
-  height: 100px;
-  margin: 20px 50px;
+  	background-color: transparent;
+  	background-image: linear-gradient(130deg, #2C3B3B, #476162, #519B9D);
+  	border: 3px solid white;
+  	color: white;
+  	border-radius: 15px;
+  	padding: 10px 10px 10px 10px;
+  	width: 300px;
+  	height: 100px;
+  	margin: 20px 50px;
 }
 
 .page_buttons button:hover {
-  background-color: #0a9a9f;
-  background-image: linear-gradient(170deg, #ABF8FA, #476162, #3A6E70, #548B8D, #519B9D, #0a9a9f, #ABF8FA);
-  border: 4px solid white;
-  color: white;
-  box-shadow: 0px 0px 95px 20px #0a9a9f;
-  cursor: pointer;
+  	background-color: #0a9a9f;
+  	background-image: linear-gradient(170deg, #ABF8FA, #476162, #3A6E70, #548B8D, #519B9D, #0a9a9f, #ABF8FA);
+  	border: 4px solid white;
+  	color: white;
+  	box-shadow: 0px 0px 95px 20px #0a9a9f;
+  	cursor: pointer;
 }
 
 footer {
-  height: 100px;
-  position: block;
+  	height: 100px;
+  	position: block;
 }
