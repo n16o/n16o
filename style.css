@@ -15,10 +15,6 @@ header {
   padding: 20px;
 }
 
-.myheader_image {
-  height: 200px;
-}
-
 .myheader_image, .myheader_text {
 	display: inline-block;
   text-align: left;
