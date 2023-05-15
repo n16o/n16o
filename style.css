@@ -12,6 +12,7 @@ body {
 header {
 	height: 200px;
   padding: 20px;
+	overflow: scroll;
 }
 
 .myheader_image, .myheader_text {
