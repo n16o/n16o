@@ -10,9 +10,10 @@ body {
 }
 
 header {
-	height: 175px;
+	height: 200px;
   	padding: 20px;
 	overflow: scroll;
+	margin: 20px 20px;
 }
 
 .myheader_text h1 {
@@ -23,7 +24,11 @@ header {
 	display: inline-block;
   	text-align: left;
   	color: #BADEDF;
-  	margin: 20px;
+  	
+}
+
+.page_buttons {
+	top: auto;
 }
 
 .page_buttons button {
@@ -34,7 +39,7 @@ header {
   	border-radius: 15px;
   	padding: 10px 10px 10px 10px;
   	width: 300px;
-  	height: 100px;
+  	height: 75px;
   	margin: 20px 50px;
 }
 
